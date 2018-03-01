@@ -3,5 +3,4 @@ phraseapp:
   file_format: node_json
   pull:
     targets:
-      ./locales/*.js
-    
+      ./locales/<locale_name>.js
