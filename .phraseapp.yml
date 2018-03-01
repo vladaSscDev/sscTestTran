@@ -1,2 +1,7 @@
 phraseapp:
   project_id: 8c510fd863c8e73c7801c1b84cf461df
+  file_format: node_json
+  pull:
+    targets:
+      ./locales/*.js
+    
