@@ -3,7 +3,7 @@
   "Cancel": "Бас тарту",
   "Choose your favorite theme.": "Сүйікті тақырыбыңызды таңдаңыз.",
   "Current time zone": "Ағымдағы уақыт белдеуі",
-  "envirnoment": "Environmentttt",
+  "envirnoment": null,
   "Environment": "Environment",
   "Environments": "Environments",
   "Feedback": "Пікір",
@@ -28,8 +28,8 @@
   "Number 2": null,
   "Off": "Өшіру",
   "On": "Қосу",
-  "open_project": "Open project",
-  "Overriden form help": "Overridden form help",
+  "open_project": null,
+  "Overriden form help": null,
   "Privacy Statement": "Құпиялылық туралы мәлімдеме",
   "Result": null,
   "Save": "Сақтау",
@@ -51,5 +51,5 @@
   "Title Idea": "Не ұсынар едіңіз?",
   "Title Smile": "Сізге не ұнады?",
   "Your apps": "Бағдарламаларыңыз",
-  "[[__phrase_Text Fileld component__]]": "Text Field component"
+  "[[__phrase_Text Fileld component__]]": null
 }
