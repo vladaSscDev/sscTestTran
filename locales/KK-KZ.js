@@ -12,7 +12,7 @@
   "Feedback Like": "Маған бірдеңе ұнады",
   "Feedback Question": "Қандай пікір қалдырғыңыз келеді?",
   "Feedback Suggestion": "Менде ұсыныс бар",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Анықтама",
   "help": null,
   "Include screenshot": "Скриншотты қосу",
