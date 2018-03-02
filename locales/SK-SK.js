@@ -12,7 +12,7 @@
   "Feedback Like": "I Like Something",
   "Feedback Question": "What kind of feedback do you have?",
   "Feedback Suggestion": "I Have a Suggestion",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Help",
   "help": null,
   "Include screenshot": "Include screenshot",
