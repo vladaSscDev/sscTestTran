@@ -12,7 +12,7 @@
   "Feedback Like": "Man kažkas patinka",
   "Feedback Question": "Kokių atsiliepimų turite?",
   "Feedback Suggestion": "Turiu pasiūlymą",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Žinynas",
   "help": null,
   "Include screenshot": "Įtraukti ekrano kopiją",
