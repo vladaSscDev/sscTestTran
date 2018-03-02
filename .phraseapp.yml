@@ -3,11 +3,6 @@ phraseapp:
   push:
     sources:
       file: ./locales/BG-BG.js
-      params:
-        update_translations: true
-        file_format: node_json
   pull:
     targets:
       file: ./locales/BG-BG.js
-      params:
-        file_format: node_json
