@@ -12,7 +12,7 @@
   "Feedback Like": "Coś mi się podoba",
   "Feedback Question": "Jakiego rodzaju opinię chcesz przekazać?",
   "Feedback Suggestion": "Mam sugestię",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Pomoc",
   "help": null,
   "Include screenshot": "Dołącz zrzut ekranu",

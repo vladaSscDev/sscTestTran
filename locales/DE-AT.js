@@ -12,7 +12,7 @@
   "Feedback Like": "Mir gefällt etwas",
   "Feedback Question": "Welche Art von Feedback haben Sie?",
   "Feedback Suggestion": "Ich habe einen Vorschlag",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Hilfe",
   "help": null,
   "Include screenshot": "Screenshot einschließen",

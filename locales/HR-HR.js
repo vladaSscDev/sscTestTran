@@ -12,7 +12,7 @@
   "Feedback Like": "Sviđa mi se nešto",
   "Feedback Question": "Kakve povratne informacija imate?",
   "Feedback Suggestion": "Imam prijedlog",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Pomoć",
   "help": null,
   "Include screenshot": "Uvrsti snimku zaslona",

@@ -12,7 +12,7 @@
   "Feedback Like": "Харесва ми нещо",
   "Feedback Question": "Какъв вид обратна връзка имате??",
   "Feedback Suggestion": "Имам предложение",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Помощ",
   "help": null,
   "Include screenshot": "Включване на екранна снимка",

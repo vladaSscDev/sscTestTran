@@ -12,7 +12,7 @@
   "Feedback Like": "Мне кое-что нравится",
   "Feedback Question": "Какой отзыв вы хотите оставить?",
   "Feedback Suggestion": "У меня есть предложение",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Справка",
   "help": null,
   "Include screenshot": "Включить снимок экрана",
