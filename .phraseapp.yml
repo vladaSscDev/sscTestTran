@@ -2,12 +2,12 @@ phraseapp:
   project_id: 8c510fd863c8e73c7801c1b84cf461df
   push:
     sources:
-      file: ./locales/*.js
+      file: ./locales/BG-BG.js
       params:
         update_translations: true
         file_format: node_json
   pull:
     targets:
-      file: ./locales/<locale_name>.js
+      file: ./locales/BG-BG.js
       params:
         file_format: node_json
