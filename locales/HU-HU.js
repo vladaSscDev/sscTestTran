@@ -12,7 +12,7 @@
   "Feedback Like": "Tetszik valami",
   "Feedback Question": "Milyen jellegű visszajelzést szeretne írni?",
   "Feedback Suggestion": "Van egy javaslatom",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Súgó",
   "help": null,
   "Include screenshot": "Képernyőképpel együtt",
