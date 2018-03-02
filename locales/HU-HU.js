@@ -3,7 +3,7 @@
   "Cancel": "Mégse",
   "Choose your favorite theme.": "A kedvenc téma kiválasztása.",
   "Current time zone": "Jelenlegi időzóna",
-  "envirnoment": "Environmentttt",
+  "envirnoment": null,
   "Environment": "Environment",
   "Environments": "Environments",
   "Feedback": "Visszajelzés",
@@ -28,8 +28,8 @@
   "Number 2": null,
   "Off": "Kikapcsolva",
   "On": "Bekapcsolva",
-  "open_project": "Open project",
-  "Overriden form help": "Overridden form help",
+  "open_project": null,
+  "Overriden form help": null,
   "Privacy Statement": "Adatvédelmi nyilatkozat",
   "Result": null,
   "Save": "Mentés",
@@ -51,5 +51,5 @@
   "Title Idea": "Milyen javaslata van?",
   "Title Smile": "Mi tetszett?",
   "Your apps": "Saját appok",
-  "[[__phrase_Text Fileld component__]]": "Text Field component"
+  "[[__phrase_Text Fileld component__]]": null
 }
