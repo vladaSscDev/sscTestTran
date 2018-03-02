@@ -3,12 +3,12 @@ phraseapp:
   file_format: node_json
   push:
     sources:
-    - file: ./locales/<locale-name>.js
+    - file: ./locales/<locale_name>.js
       params:
         update_translations: true
         file_format: node_json
   pull:
     targets:
-    - file: ./locales/<locale-name>.js
+    - file: ./locales/<locale_name>.js
       params:
         file_format: node_json
