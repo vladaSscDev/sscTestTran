@@ -12,7 +12,7 @@
   "Feedback Like": "Něco se mi líbí",
   "Feedback Question": "Co byste nám chtěli říct?",
   "Feedback Suggestion": "Mám návrh",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Nápověda",
   "help": null,
   "Include screenshot": "Zahrnout screenshot",
