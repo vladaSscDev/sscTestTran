@@ -3,7 +3,7 @@
   "Cancel": "Odustani",
   "Choose your favorite theme.": "Odaberite omiljenu temu.",
   "Current time zone": "Trenutna vremenska zona",
-  "envirnoment": "Environmentttt",
+  "envirnoment": null,
   "Environment": "Environment",
   "Environments": "Environments",
   "Feedback": "Povratne informacije",
@@ -28,8 +28,8 @@
   "Number 2": null,
   "Off": "Isključeno",
   "On": "Uključeno",
-  "open_project": "Open project",
-  "Overriden form help": "Overridden form help",
+  "open_project": null,
+  "Overriden form help": null,
   "Privacy Statement": "Izjava o zaštiti privatnosti",
   "Result": null,
   "Save": "Spremi",
@@ -51,5 +51,5 @@
   "Title Idea": "Što predlažete?",
   "Title Smile": "Što vam se svidjelo?",
   "Your apps": "Vaše aplikacije",
-  "[[__phrase_Text Fileld component__]]": "Text Field component"
+  "[[__phrase_Text Fileld component__]]": null
 }

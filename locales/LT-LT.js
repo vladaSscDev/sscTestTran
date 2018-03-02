@@ -3,7 +3,7 @@
   "Cancel": "Atšaukti",
   "Choose your favorite theme.": "Pasirinkite mėgstamą temą.",
   "Current time zone": "Dabartinė laiko juosta",
-  "envirnoment": "Environmentttt",
+  "envirnoment": null,
   "Environment": "Environment",
   "Environments": "Environments",
   "Feedback": "Atsiliepimai",
@@ -28,8 +28,8 @@
   "Number 2": null,
   "Off": "Išjungta",
   "On": "Įjungta",
-  "open_project": "Open project",
-  "Overriden form help": "Overridden form help",
+  "open_project": null,
+  "Overriden form help": null,
   "Privacy Statement": "Privatumo patvirtinimas",
   "Result": null,
   "Save": "Įrašyti",
@@ -51,5 +51,5 @@
   "Title Idea": "Ką siūlote?",
   "Title Smile": "Kas jums patiko?",
   "Your apps": "Jūsų programos",
-  "[[__phrase_Text Fileld component__]]": "Text Field component"
+  "[[__phrase_Text Fileld component__]]": null
 }

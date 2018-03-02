@@ -3,7 +3,7 @@
   "Cancel": "Zrušit",
   "Choose your favorite theme.": "Zvolte svůj oblíbený motiv.",
   "Current time zone": "Aktuální časové pásmo",
-  "envirnoment": "Environmentttt",
+  "envirnoment": null,
   "Environment": "Environment",
   "Environments": "Environments",
   "Feedback": "Váš názor",
@@ -28,8 +28,8 @@
   "Number 2": null,
   "Off": "Vypnuto",
   "On": "Zapnuto",
-  "open_project": "Open project",
-  "Overriden form help": "Overridden form help",
+  "open_project": null,
+  "Overriden form help": null,
   "Privacy Statement": "Prohlášení o zásadách ochrany osobních údajů",
   "Result": null,
   "Save": "Uložit",
@@ -51,5 +51,5 @@
   "Title Idea": "Co navrhujete?",
   "Title Smile": "Co se vám líbilo?",
   "Your apps": "Vaše aplikace",
-  "[[__phrase_Text Fileld component__]]": "Text Field component"
+  "[[__phrase_Text Fileld component__]]": null
 }

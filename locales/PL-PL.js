@@ -3,7 +3,7 @@
   "Cancel": "Anuluj",
   "Choose your favorite theme.": "Wybierz ulubiony motyw.",
   "Current time zone": "Bieżąca strefa czasowa",
-  "envirnoment": "Environmentttt",
+  "envirnoment": null,
   "Environment": "Environment",
   "Environments": "Environments",
   "Feedback": "Opinia",
@@ -28,8 +28,8 @@
   "Number 2": null,
   "Off": "Wyłączone",
   "On": "Włączone",
-  "open_project": "Open project",
-  "Overriden form help": "Overridden form help",
+  "open_project": null,
+  "Overriden form help": null,
   "Privacy Statement": "Zasady zachowania poufności informacji",
   "Result": null,
   "Save": "Zapisz",
@@ -51,5 +51,5 @@
   "Title Idea": "Co sugerujesz?",
   "Title Smile": "Co Ci się spodobało?",
   "Your apps": "Twoje aplikacje",
-  "[[__phrase_Text Fileld component__]]": "Text Field component"
+  "[[__phrase_Text Fileld component__]]": null
 }

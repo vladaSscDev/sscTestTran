@@ -3,7 +3,7 @@
   "Cancel": "Отмена",
   "Choose your favorite theme.": "Выберите понравившуюся тему.",
   "Current time zone": "Текущий часовой пояс",
-  "envirnoment": "Environmentttt",
+  "envirnoment": null,
   "Environment": "Environment",
   "Environments": "Environments",
   "Feedback": "Отзыв",
@@ -28,8 +28,8 @@
   "Number 2": null,
   "Off": "Выкл.",
   "On": "Вкл.",
-  "open_project": "Open project",
-  "Overriden form help": "Overridden form help",
+  "open_project": null,
+  "Overriden form help": null,
   "Privacy Statement": "Заявление о конфиденциальности",
   "Result": null,
   "Save": "Сохранить",
@@ -51,5 +51,5 @@
   "Title Idea": "Что вы хотите предложить?",
   "Title Smile": "Что вам нравится?",
   "Your apps": "Ваши приложения",
-  "[[__phrase_Text Fileld component__]]": "Text Field component"
+  "[[__phrase_Text Fileld component__]]": null
 }

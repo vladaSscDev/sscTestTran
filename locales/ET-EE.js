@@ -3,7 +3,7 @@
   "Cancel": "Loobu",
   "Choose your favorite theme.": "Saate valida oma lemmikkujunduse.",
   "Current time zone": "Praegune ajavöönd",
-  "envirnoment": "Environmentttt",
+  "envirnoment": null,
   "Environment": "Environment",
   "Environments": "Environments",
   "Feedback": "Tagasiside",
@@ -28,8 +28,8 @@
   "Number 2": null,
   "Off": "Väljas",
   "On": "Sees",
-  "open_project": "Open project",
-  "Overriden form help": "Overridden form help",
+  "open_project": null,
+  "Overriden form help": null,
   "Privacy Statement": "Privaatsusavaldus",
   "Result": null,
   "Save": "Salvesta",
@@ -51,5 +51,5 @@
   "Title Idea": "Mida soovitate?",
   "Title Smile": "Mis teile meeldis?",
   "Your apps": "Teie rakendused",
-  "[[__phrase_Text Fileld component__]]": "Text Field component"
+  "[[__phrase_Text Fileld component__]]": null
 }
