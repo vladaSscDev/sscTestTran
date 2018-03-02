@@ -12,7 +12,7 @@
   "Feedback Like": "On midagi, mis mulle meeldib",
   "Feedback Question": "Millist tagasisidet soovite meile anda?",
   "Feedback Suggestion": "Mul on ettepanek",
-  "feedback Suggestion": null,
+  "feedback Suggestion": "I Have s Suggestion",
   "Help": "Spikker",
   "help": null,
   "Include screenshot": "Kaasa kuvatõmmis",
